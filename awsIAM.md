@@ -3,4 +3,4 @@
 
 ####
 1. Setup a group
-2. 
+2. Setup an IAM User
