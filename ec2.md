@@ -21,3 +21,13 @@ STEPS:
 7. Review
 8. Download a key value pairs if we want to connect to the instance from local machine securely.
     - Private keys allow us to securely SSH into our instance.
+***********
+Q. How to secure our application?
+Account Security with IAM
+
+Q1. Do we want to give right permissions to people or services?
+1. Groups
+2. Users
+3. Roles
+4. Policies
+*****
