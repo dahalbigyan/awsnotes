@@ -5,4 +5,4 @@
     - Choose your application
     - Choose your environment
     - Click on “configuration” and choose the SSL certificate
-4. 
+4.

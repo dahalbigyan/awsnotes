@@ -31,3 +31,6 @@ Q1. Do we want to give right permissions to people or services?
 3. Roles
 4. Policies
 **********
+Connection to the remote EC2 instance
+1. Download and store the key value pairs in a secure location from the aws
+2. ssh -i <name of the aws key file.pem> <ec2-user for aws linux distribution@publicDNS.com>

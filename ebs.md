@@ -40,7 +40,6 @@ An Elastic IP is essentially tied to your AWS account in that AZ. You can freely
 							-- eb logs
 2. Add custom domain name
 
-
 ************************************************************************************************************************************
 Elastic Beanstalk Command Line Interface
  - Client that allows us to create, configure, and manage EB environments.
