@@ -26,8 +26,9 @@
           - Default Docker Bridge/Docker 0
           - Container1, Container2
           - NAT outbound/inbound
-    - Great Resource
+    - Great Resources
     https://www.oreilly.com/learning/what-is-docker-networking
+    https://www.youtube.com/watch?v=Xxhhdo2e-DA
 
 *****
 Regardless of single-host deployment || muti-host deployments, you will always have to deal with networking.
@@ -43,6 +44,7 @@ Docker Networking
 1. Bridge Mode
       - Docker daemon creates docker0
       - eth0 interface
+      - Default bridges vs. User defined bridges vs. Overlay Network
 2. Host Mode
 3. Container Mode
 4. No Networking Mode
