@@ -1,3 +1,11 @@
+Infastructure as a service vs. Platform as a service
+
+Components of an N-Tier Web Application:
+	- Users
+	- Domain Name
+	- App Server
+	- Database
+
 EBS:
 ######
 	- Can run a t2.micro EC2 per month
