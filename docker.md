@@ -48,3 +48,30 @@ Docker Networking
 2. Host Mode
 3. Container Mode
 4. No Networking Mode
+
+
+**** docker info ***
+{
+  Containers: 0,
+  Running: 0,
+  Paused: 0,
+  Stopped: 0,
+  Images: 0,
+  Server Version: 18.03.1,
+  Storage Driver: overlay2,
+  Backing Filesystem: extfs,
+  Supports d_type: true,
+  Native Overlay Diff: true,
+  Logging Driver: cgroupfs,
+  Pluggins: {
+    Volume: local,
+    Network: 'bridge host ipvlan macvlan null overlay2'
+    Log: 'awslogs fluentd gcplogs gelf journald json-file logentries splunk syslog'
+  },
+  Swarm: inactive ,
+  Runtimes: runc,
+  Default Runtime: runc,
+  Init Binary: docker-nit,
+  containerd version: '',
+  ....etc
+}
