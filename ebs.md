@@ -3,7 +3,8 @@ Infastructure as a service vs. Platform as a service
 Components of an N-Tier Web Application:
 	- Users
 	- Domain Name
-	- App Server
+	- Load Balancer
+	- App Server/s
 	- Database
 
 EBS:
